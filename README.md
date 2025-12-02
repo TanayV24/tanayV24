@@ -92,9 +92,9 @@ Here are some of the domains I’ve worked on:
 
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@gmail.com**
-- 💼 LinkedIn: **your-linkedin-url**
-- 🌐 Portfolio: **your-portfolio-link**
+- 📧 Email: **vakhariatanay@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/tanay-vakharia-3b0632249/**
+- 🌐 Portfolio: **https://www.tanayvakharia.com/**
 
 ---
 
