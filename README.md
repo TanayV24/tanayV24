@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tanay  
 
-### Full-Stack Developer | AI & IoT Enthusiast | Problem Solver  
+### Full-Stack Developer | AI & ML Enthusiast | Problem Solver  
 
 **I build intelligent web applications, automation systems, and embedded solutions that solve real-world problems. Passionate about AI, Robotics, and Full-Stack Development.**
 
