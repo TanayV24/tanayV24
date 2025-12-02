@@ -6,7 +6,7 @@
 
 **I build intelligent web applications, automation systems, and embedded solutions that solve real-world problems. Passionate about AI, Robotics, and Full-Stack Development.**
 
-[🌐 Portfolio](#https://www.tanayvakharia.com/) • [💼 LinkedIn](#https://www.linkedin.com/in/tanay-vakharia-3b0632249/) • [📧 Email](#vakhariatanay@gmail.com) • 
+[🌐 Portfolio](https://www.tanayvakharia.com/) • [💼 LinkedIn](https://www.linkedin.com/in/tanay-vakharia-3b0632249/) • [📧 Email](vakhariatanay@gmail.com) • 
 
 </div>
 
