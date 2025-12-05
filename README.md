@@ -56,7 +56,7 @@
 
 Here are some of the domains I’ve worked on:
 
-- 🎓 **Career Guider**(https://github.com/TanayV24/Career_Guider) — AI-based career recommendation platform  
+- 🎓 [**Career Guider**](https://github.com/TanayV24/Career_Guider) — AI-based career recommendation platform  
 - 🤖 **Obstacle Avoidance Robot** — Autonomous robotics project  
 - 🌞 **Light Following Solar Panel** — Smart renewable energy system  
 - 🧑‍💼 **Human Resource Management System** — Full-stack HR platform  
