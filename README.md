@@ -60,11 +60,6 @@ Here are some of the domains I’ve worked on:
 - 🤖 **Obstacle Avoidance Robot** — Autonomous robotics project  
 - 🌞 **Light Following Solar Panel** — Smart renewable energy system  
 - 🧑‍💼 **Human Resource Management System** — Full-stack HR platform  
-- 📝 **Exam Online Portal** — Online examination system  
-- 👟 **Shoe Ordering Website** — Full-stack e-commerce platform  
-- 🔐 **Password Strength Checker** — Real-time security tool  
-- 🎮 **Tic Tac Toe** — Game development with GUI  
-- ⏱ **StopWatch App** — Utility web application  
 
 👉 *Check my repositories for complete source code & documentation.*
 
@@ -98,11 +93,6 @@ Here are some of the domains I’ve worked on:
 
 ---
 
-## 🧑‍💼 One-Line Bio
-
-> A passionate full-stack developer and AI-IoT enthusiast focused on building smart, scalable, and impactful tech solutions.
-
----
 
 <div align="center">
 
