@@ -61,7 +61,7 @@ Here are some of the domains I’ve worked on:
 -  [**Edulytics**](https://github.com/TanayV24/Edulytics) — A data-driven analytics tool for education 
 - [**Human Resource Management System**](https://github.com/TanayV24/Human-Resource-Managment-System) —A full-stack HR management system
 - [**Ai- Lead Generator**](https://github.com/TanayV24/Ai-Lead-Generator) - A Python-based automated lead generator that scrapes public data, cleans it, and exports structured leads for business outreach.
-- [**university Chatbot**](https://github.com/TanayV24/University-chatbot - A Python-based AI chatbot using rule-based NLP to answer university-related student queries via a Tkinter GUI.
+- [**university Chatbot**](https://github.com/TanayV24/University-chatbot) - A Python-based AI chatbot using rule-based NLP to answer university-related student queries via a Tkinter GUI.
 - [**Smart AMC system**](https://github.com/TanayV24/Smart-Amc-System)-  A full-stack AMC management system for clients, devices, maintenance scheduling, contracts, and service logs.
 
 👉 *Check my repositories for complete source code & documentation.*
